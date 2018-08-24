@@ -1,6 +1,6 @@
 # OpenPose_PythonOpenCV
 
-This code is regarding the post: (soon to be published)
+This code is implementing this post: (soon to be published)
 
 A simple code demonstrating real-time Pose Estimation in webcam using OpenPose Python and OpenCV.
 
