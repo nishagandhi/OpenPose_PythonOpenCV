@@ -52,7 +52,7 @@ def main():
                 # Print the human pose keypoints, i.e., a [#people x #keypoints x 3]-dimensional numpy object with the keypoints of all the people on that image
                 if len(keypoints)>0:
                         print('Human(s) Pose Estimated!')
-                                       print(keypoints)
+                        print(keypoints)
                 else:
                         print('No humans detected!')
 
