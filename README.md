@@ -1,6 +1,6 @@
 # OpenPose_PythonOpenCV
 
-This code is implementing this post: (soon to be published)
+This code is implementing this post: https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c
 
 ![alt text](https://github.com/nishagandhi/OpenPose_PythonOpenCV/blob/master/Pose_Estimation.gif)
 
